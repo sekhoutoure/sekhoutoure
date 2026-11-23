@@ -8,9 +8,11 @@ Je m'appelle Sekhou Toure et je vis au Sénégal. Je conçois des outils pour tr
 
 ## Projets
 
-### CLIP MASTER *(bientôt open source)*
+### CLIP MASTER
 
 Outil local qui transforme une longue vidéo (lien, live, VOD ou fichier) en Short vertical 9:16. Il détecte les moments forts, suit la facecam, ajoute des sous-titres, gère une file d'attente par lots et propose des presets TikTok, YouTube Shorts et Instagram Reels. L'interface est en français et en anglais, et aucune vidéo n'est envoyée sur un serveur distant.
+
+**[sekhoutoure/clip-master](https://github.com/sekhoutoure/clip-master)**
 
 ### SenTechPLUS
 
